@@ -1,2 +1,2 @@
 # implement-matrix-class
-(Practice) Implement a matrix class in python.
+Implement a matrix class in python.
